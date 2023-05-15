@@ -1,0 +1,9 @@
+/* CENTER BACKGROUND IMAGE TO OCCUPY THE ENTIRE PAGE */
+/* METHOD A */
+html { 
+    background: url(images/bg1.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
